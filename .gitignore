@@ -1,0 +1,14 @@
+.venv
+kredit.csv
+Projekt04_credit.pdf
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
